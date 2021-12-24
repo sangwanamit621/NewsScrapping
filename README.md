@@ -6,11 +6,11 @@ Web scraping refers to the extraction of data from a website.This information is
 ### Libraries Used
 1. __Beautiful Soup__ : Beautiful Soup provides simple methods for navigating, searching, and modifying a parse tree in HTML, XML files. It transforms a complex HTML document into a tree of Python objects. It also automatically converts the document to Unicode, so you don’t have to think about encodings. This tool not only helps you scrape but also to clean the data. 
 
-__To install Beautiful Soup run the following command in your conda environment :__ pip install beautifulsoup4
+    __To install Beautiful Soup run the following command in your conda environment :__ pip install beautifulsoup4
 
 2. __Flask__ : Flask is Python’s micro-framework for web app development.Flask consists of Werkzeug WSGI toolkit and Jinja2 template engine.Web Server Gateway Interface (WSGI) is the standard for Python web application development and  Jinja 2 renders the web pages for the server with any specified custom content given to it by the webserver. Flask renders its HTML based templates using Jinja 2. 
 
-To install Flask run the following command in your conda environment  : pip install Flask
+    __To install Flask run the following command in your conda environment  :__ pip install Flask
 
 
 ## About the Project
