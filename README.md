@@ -26,4 +26,4 @@ The three websites used for scrapping news are :
 After Scrapping the news from websites these news are displayed on html page.
 
 This project can be deployed on Cloud Platforms like Heroku , AWS , GCP , Azure etc.
-Link for app hosted on [Heroku](https://news-scapper-site.herokuapp.com/)
+In our case, App was deployed on Heroku cloud platform and runs on this url https://news-scapper-site.herokuapp.com/
